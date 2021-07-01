@@ -1,0 +1,8 @@
+body{
+    background-color: cyan;
+}
+#container{
+    background-image: url(./imjs/six.jpg.jpg);
+    width: 600px;
+    margin: 0 auto;
+}
